@@ -70,6 +70,7 @@ enum class EALSOverlayState : uint8
 	Katana,
 	Spear,
 	Dual,
+	Mage,
 	Masculine,
 	Feminine,
 	Injured,
